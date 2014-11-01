@@ -21,6 +21,10 @@
     return self;
 }
 
+
+
+
+
 -(void)configureItemViews:(Character*)character
 {
     [_headView configureWithItem:character.headItem];
